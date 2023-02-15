@@ -83,38 +83,23 @@ span.centered {
     overflow: hidden;
 }
 
-.sam.sam-5 p {
+.sam p {
     height: 250px;
-}
-
-.sam.sam-9 p {
-    height: 180px;
 }
 
 .sam label {
     display: inline-block;
     position: relative;
     top: -130px;
-}
-
-.sam.sam-5 label {
     width: 17%;
-}
-
-.sam.sam-9 label {
-    width: 10%;
 }
 
 .sam label + label {
     margin-left: -0.8%;
 }
 
-.sam.sam-5 label:not(:last-child) {
+.sam label:not(:last-child) {
     margin-right: 3.7%;
-}
-
-.sam.sam-9 label:not(:last-child) {
-    margin-right: 2.05%;
 }
 
 .sam label input {
